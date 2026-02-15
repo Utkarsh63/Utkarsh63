@@ -7,12 +7,12 @@
 ```
 class Utkarsh():
     def __init__(self):
-        self.name = ['Harsh Shukla']
+        self.name = ['Utkarsh Singh']
         self.country = ['India']
         self.language = ['हिंदी', 'English']
     def programming_languages(self):
         return [
-            'C', 'C++', 'React.Js', 'Node.Js',
+            'Python', 'C', 'C++', 'Java', 'React.Js', 'Node.Js',
              'Express.Js', 'CSS', 'Next.Js'
         ]
     def server(self):
