@@ -32,11 +32,6 @@ class Utkarsh():
         return [
             'macOS', 'Windows'
         ]
-    def windows_os(self):
-        return [
-            'Windows 10'
-        ]
-
 if __name__ == '__main__':
     me = Utkarsh()
 ```
