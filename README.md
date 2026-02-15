@@ -38,7 +38,7 @@ class Utkarsh():
         ]
 
 if __name__ == '__main__':
-    me = Harsh()
+    me = Utkarsh()
 ```
 
 💫 About Me:
